@@ -1,0 +1,17 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+*.json
+*.csv
+node_modules/
+page*.html
+error_page.html
+.vscode/
+.idea/
+.DS_Store
+*_create_*.py
+*_push_*.py
+*_batch_*.py

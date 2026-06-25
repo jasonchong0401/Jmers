@@ -1,0 +1,13 @@
+{
+  "name": "playwright-investing",
+  "version": "1.0.0",
+  "description": "Investing.com commodity scraper with Playwright",
+  "scripts": {
+    "scrape": "node scrape-commodities.js"
+  },
+  "dependencies": {
+    "playwright": "^1.61.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
